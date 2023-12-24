@@ -1,0 +1,20 @@
+.idea
+*~
+\#*#
+\.#*
+\#*\#
+scripts/contact*
+celerybeat*
+.deliver/releases/
+/*.log
+*.retry
+postgres-data/
+*.pyc
+
+# Distribution / packaging
+.python-version
+env/
+venv/
+
+# Pycharm
+.idea/

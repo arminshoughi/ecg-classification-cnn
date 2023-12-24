@@ -1,0 +1,6 @@
+imblearn==0.0
+matplotlib==3.7.2
+pip-chill==1.0.3
+pipenv==2023.7.11
+pywavelets==1.4.1
+tensorflow==2.13.0
