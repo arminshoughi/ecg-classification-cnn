@@ -38,6 +38,6 @@ For a detailed understanding of our methodology and evaluation results, please r
 
 ## Contact
 
-For any inquiries or collaboration opportunities, feel free to contact the project maintainer, Armin Shoughi, via the repository [issues](https://gitlab.com/arminshoughi/ecg-classification-cnn/-/issues).
+For any inquiries or collaboration opportunities, feel free to contact the project maintainer, Armin Shoughi, via the repository [issues](https://github.com/arminshoughi/ecg-classification-cnn/issues).
 
 Thank you for your interest in our work!
